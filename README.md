@@ -1,4 +1,4 @@
-# main
+# assorted
 
 This is a place for assorted work I've done while learning. 
 
